@@ -1,0 +1,14 @@
+.contenedor {
+    border: 5px solid red;
+    background-color: papayawhip;
+    display: grid;
+    grid-template-rows: 100px 200px;
+    grid-auto-columns: 100px;
+    grid-auto-flow:column;
+    row-gap: 30px;
+    column-gap: 5px;
+}
+.item {
+    border: 3px solid blue;
+    font-size: 4rem;
+}
