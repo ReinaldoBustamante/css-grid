@@ -20,3 +20,5 @@ Es cuando se unen celdas para formar otra celda y abarcar un mayor espacio. Exis
 - Track: Grupos de celda que están en una misma fila o columna
 
 - Area: Grupo de celda que utilizan varias filas y columnas a la vez.
+
+![grupos celda](https://blog.ida.cl/wp-content/uploads/sites/5/2018/01/Grid-track-e1515507200199.png)
