@@ -11,3 +11,4 @@ Entre ellas estan :
 - grid-auto-columns: // Define tamaño que tendra cualquier col que se va a crear
 - grid-auto-flow: // Define como fluyen los elementos colocados automaticamente. 
 ~~~
+
