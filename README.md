@@ -1,2 +1,7 @@
-# css-grid
-Se pondrá en practica css-grid 
+# CSS Grid Layout
+
+El objetivo de este repositorio es .....
+
+
+## Contenido
+
