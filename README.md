@@ -9,3 +9,5 @@ El objetivo de este repositorio es repasar los conceptos basicos de CSS Grid
 - [Propiedades del contenedor](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/3)
 - [Propiedades de alineacion](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/4)
 - [Propiedades de ubicación](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/5)
+- [Funciones especiales](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/6)
+- [Keywords especiales](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/7)
