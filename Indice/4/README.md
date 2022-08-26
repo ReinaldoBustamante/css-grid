@@ -16,7 +16,7 @@ Ajusta la grilla completa al espacio en que vive. Es decir lo que se alinea es l
 ```
     Justify-content // Justify alinea de manera horizontal.
     Align-content // Align alinea de manera vertical.
-    Place-content // Place alinea de manera horizontal y vertical a la vez.
+    Place-conten t // Place alinea de manera horizontal y vertical a la vez.
 ```
 
 ## Propiedades de alineacion de un solo item individual 
