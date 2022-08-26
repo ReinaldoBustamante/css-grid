@@ -12,3 +12,4 @@ El objetivo de este repositorio es repasar los conceptos basicos de CSS Grid
 - [Funciones especiales](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/6)
 - [Keywords especiales](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/7)
 - [Proyecto](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/8)
+- [Ejercicio](https://github.com/ReinaldoBustamante/css-grid/tree/main/Indice/9)
